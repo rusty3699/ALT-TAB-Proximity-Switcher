@@ -55,3 +55,5 @@ pip install pyserial pyautogui
 python proximity_switcher.py
 ```
 
+---
+*Made with ❤️ Anish*
